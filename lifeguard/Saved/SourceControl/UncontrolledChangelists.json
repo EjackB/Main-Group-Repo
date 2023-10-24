@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jbran/Documents/GitHub/Main-Group-Repo/lifeguard/Content/TopDown/Blueprints/BP_TopDownGameMode.uasset",
+				"C:/Users/jbran/Documents/GitHub/Main-Group-Repo/lifeguard/Content/TopDown/Blueprints/Character_BP.uasset",
+				"C:/Users/jbran/Documents/GitHub/Main-Group-Repo/lifeguard/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
+				"C:/Users/jbran/Documents/GitHub/Main-Group-Repo/lifeguard/Content/TopDown/Blueprints/CharacterController_BP.uasset",
+				"C:/Users/jbran/Documents/GitHub/Main-Group-Repo/lifeguard/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"C:/Users/jbran/Documents/GitHub/Main-Group-Repo/lifeguard/Content/__ExternalActors__/TopDown/Maps/TopDownMap/3/RG/XOAZMB5QVL20UGXOCZ1LZK.uasset",
 				"C:/Users/itsmu/Documents/Unreal Projects/lifeguard/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
